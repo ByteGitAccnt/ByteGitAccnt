@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there 👋, I'm MOHAMMED SHAHUL VK
 
 🎓 B.Tech CSE student at **CUSAT**  
