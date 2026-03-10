@@ -9,10 +9,9 @@
 ---
 
 ### 🛠️ Tech Skills
-- **Core:** Java, Spring Boot  
-- **Beginner Level:** SQL, Python, JavaScript, Flutter  
-- **Tools:** Git, GitHub, IntelliJ IDEA, PostgreSQL  
-
+- **Core Expertise:** Java, Spring Boot  
+- **Working Knowledge:** SQL, Python, JavaScript, Flutter  
+- **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, PostgreSQL  
 ---
 
 ### 🎯 Areas of Interest
