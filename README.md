@@ -1,10 +1,12 @@
 # Hi there 👋, I'm MOHAMMED SHAHUL VK
 
-🎓 B.Tech CSE student at **CUSAT**  
-💻 Passionate **Java Developer** exploring backend systems  
+🎓 B.Tech CSE student at CUSAT
+
+💻 Java Backend Developer focused on building secure and scalable applications
+
 🚀 Built and deployed Expense Tracker using Spring Boot, PostgreSQL, and Flutter
-⚙️ Main stack: Java, Spring Boot, PostgreSQL, Flutter
-🌱 Continuously learning and experimenting with new technologies
+
+🌱 Exploring software architecture, backend engineering, and modern technologies
 
 ---
 
