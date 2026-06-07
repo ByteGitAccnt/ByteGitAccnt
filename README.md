@@ -2,8 +2,8 @@
 
 🎓 B.Tech CSE student at **CUSAT**  
 💻 Passionate **Java Developer** exploring backend systems  
-🚀 Currently working on a personal project: **Expense Tracker** using Spring Framework  
-⚙️ Main stack: **Java + Spring Boot**  
+🚀 Built and deployed Expense Tracker using Spring Boot, PostgreSQL, and Flutter
+⚙️ Main stack: Java, Spring Boot, PostgreSQL, Flutter
 🌱 Continuously learning and experimenting with new technologies
 
 ---
