@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Skills
 - **Core Expertise:** Java, Spring Boot  
-- **Working Knowledge:** SQL, Python, JavaScript, Flutter  
+- **Working Knowledge:** SQL, Python, Flutter  
 - **Tools & Platforms:** Git, GitHub, IntelliJ IDEA, PostgreSQL  
 ---
 
